@@ -14,6 +14,10 @@ public class SampleFirst {
 		{
 			System.out.println("false");
 		}
+		System.out.println("modify second");
+		System.out.println("modify second");
+		System.out.println("modify second");
+		System.out.println("modify second");
 	}
 	
 	
